@@ -1,3 +1,4 @@
+print("Herramientas de desarrollo de sotfware")
 print("REGISTRO DE ESTUDIANTE")
 
 nombre = input("ingrese su nombre")
